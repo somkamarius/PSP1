@@ -15,7 +15,7 @@ public class Validator {
         return "";
     }
 
-    public boolean emailChecker(String email){
+    public boolean emailAddressChecker(String email){
         return true;
     }
 }
